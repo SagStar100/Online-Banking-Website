@@ -1,0 +1,6 @@
+Id,UserName,Name,Birthdate,Ethnicity,Phone_Number,Password,Email,All_Acc_Frozen,Default_Account,Account_Name_1,Account_Amount_1,Account_AccountNumber_1,Account_Frozen_1,Account_Account_Type_1,Account_Name_2,Account_Amount_2,Account_AccountNumber_2,Account_Frozen_2,Account_Account_Type_2,Account_Name_3,Account_Amount_3,Account_AccountNumber_3,Account_Frozen_3,Account_Account_Type_3
+0,Billy420,John,1/1/1000,White,1234567890,idk347,John.doe@gmail.com,False,Checkings,25.0,0,False,Debit
+0,Billy421,William,1/1/1000,White,1234567890,idk347,John.doe@gmail.com,False,Checkings,25.0,0,False,Debit
+0,Willian,William,1/1/1000,White,1234567890,CheeseCake805,John.doe@gmail.com,False,Checkings,25.0,0,False,Debit
+0,Blaire,William,1/1/1000,White,1234567890,Blaire,John.doe@gmail.com,False,Checkings,25.0,0,False,Debit
+0,Boby,William,1/1/1000,White,1234567890,Brown,John.doe@gmail.com,False,Checkings,25.0,0,False,Debit
